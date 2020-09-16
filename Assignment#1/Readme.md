@@ -8,3 +8,5 @@ In order to see the final page of this assignment, all of the files in the **Sou
 ### As shown in the following picture:
 
 ![FilesScreenShot](https://github.com/SebaSCF/Internet-Programming/blob/master/Assignment%231/Documentation/Screenshots/ScreenshotFiles.jpg?raw=true)
+
+### In order to see how the page was created go to the [wiki](https://github.com/SebaSCF/Internet-Programming/wiki/Assignment-%23-1---Single-HTML-with-CSS-styling) of the repository.
