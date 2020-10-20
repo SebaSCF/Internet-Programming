@@ -10,4 +10,9 @@ In order to display the page on the browser the server for PHP has to be downloa
 
 ![FilesScreenShot1](https://github.com/SebaSCF/Internet-Programming/blob/master/Assignment%232/Documentation/Screenshots/SharedScreenshot.jpg?raw=true)
 
+### This should the files downloaded:
+
+![FilesScreenShot1](https://github.com/SebaSCF/Internet-Programming/blob/master/Assignment%232/Documentation/Screenshots/SharedScreenshot2.jpg?raw=true)
+
+
 ### In order to see how the page was created go to the [wiki](https://github.com/SebaSCF/Internet-Programming/wiki/Assignment-%23-2---Single-PHP-page-with-MySQL-connectivity,-in-order-to-input,-store-and-display-data.) of the repository.
