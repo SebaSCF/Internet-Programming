@@ -1,4 +1,4 @@
-# Assignment # 2   Single HTML with CSS styling
+# Assignment # 2  Single PHP page with MySQL connectivity, in order to input, store and display data.
 
 In this assignment for the Internet Programming class, a single page website is done. Using common HTML tags such as, a, h1, section, div, and header. Also, PHP was used in order to create a place where the data from input is saved, which can also be displayed in the same page.
 ### Instructions
