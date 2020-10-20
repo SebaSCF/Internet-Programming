@@ -1,1 +1,11 @@
+# Assignment # 2   Single HTML with CSS styling
 
+In this assignment for the Internet Programming class, a single page website is done. Using common HTML tags such as, a, h1, section, div, and header. Also, PHP was used in order to create a place where the data from input is saved, which can also be displayed in the same page.
+### Instructions
+In order to see the final page of this assignment, all of the files in the **Source** folder have to be downloaded and placed in the same folder. Also, in order to display the page on the browser the server for PHP has to be downloaded, installed and ran in the computer (WAMPSERVER) https://www.wampserver.com/en/. Thus, we can type in our browser http://localhost/Assignment/Registration.php in to see the actual page, and do change if we desire to make them.
+
+### As shown in the following picture:
+
+![FilesScreenShot](https://github.com/SebaSCF/Internet-Programming/blob/master/Assignment%231/Documentation/Screenshots/ScreenshotFiles.jpg?raw=true)
+
+### In order to see how the page was created go to the [wiki](https://github.com/SebaSCF/Internet-Programming/wiki/Assignment-%23-2---Single-PHP-page-with-MySQL-connectivity,-in-order-to-input,-store-and-display-data.) of the repository.
