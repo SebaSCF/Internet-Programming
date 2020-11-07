@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0px;
+
+}
+
+.p-2{
+    padding: 50px !important;
+    font-weight: 900;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+section{
+    padding: 20px;
+    text-align: center;
+}
+
+.container a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 900;
+    margin: 42px;
+}
+
+.Response{
+    text-align: center;
+    font-weight: 700;
+    font-size: 54px;
+}
+
+.ss{
+    text-align: center;
+    font-weight: 700;
+    font-size: 54px;
+}
